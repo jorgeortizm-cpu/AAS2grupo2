@@ -1,0 +1,30 @@
+# === Python ===
+__pycache__/
+*.py[cod]
+*.pyo
+*.egg-info/
+dist/
+build/
+*.egg
+
+# === Entornos virtuales ===
+.env
+.venv
+env/
+venv/
+
+# === IDE / Editor ===
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# === Sistema operativo ===
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# === Archivos excluidos del proyecto ===
+*.docx
+scr/6_GenerarInformeWord.py
